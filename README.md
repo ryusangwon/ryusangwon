@@ -2,7 +2,7 @@
 - 👀 I’m interested in System Programming
 - 🌱 I’m currently learning Mobile System
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me r8uuuuuuuu@gmail.com
 
 <!---
 ryusangwon/ryusangwon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
