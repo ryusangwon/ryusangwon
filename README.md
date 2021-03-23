@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ryusangwon
 - 👀 I’m interested in System Programming
-- 🌱 I’m currently learning Mobile System
+- 🌱 I’m currently learning Mobile System, operating system, cloud computing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me r8uuuuuuuu@gmail.com
 
