@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ryusangwon
 - 👀 I’m interested in System Programming
 - 🌱 I’m currently learning Mobile System, Cloud Computing, Deap Learning and IoT
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on SDS
 - 📫 How to reach me r8uuuuuuuu@gmail.com
 
 <!---
