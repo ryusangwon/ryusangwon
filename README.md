@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ryusangwon
 - 👀 I’m interested in Mobile
 - 🌱 I’m currently learning Mobile System, IoT and secure
-- 💞️ I’m looking to collaborate on SDS
 - 📫 How to reach me r8uuuuuuuu@gmail.com
 
 <!---
