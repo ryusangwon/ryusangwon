@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ryusangwon
-- 👀 I’m interested in Mobile
-- 🌱 I’m currently learning Mobile System, IoT and secure
+- 👀 I’m interested in Muscle Care
+- 🌱 I’m currently learning Mobile System, Machine Learning
 - 📫 How to reach me r8uuuuuuuu@gmail.com
 
 <!---
